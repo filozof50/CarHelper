@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\SmartPC\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.5\2852e6e05fbb95076fc091f6d1780f1f8fe35e0f\commons-io-2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2852e6e05fbb95076fc091f6d1780f1f8fe35e0f">
+        <dex dex="C:\Users\SmartPC\AndroidStudioProjects\Carhelper\app\build\intermediates\pre-dexed\debug\commons-io-2.5_95e77c9053bea9cde609e6054d603f8bad0b0d08.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SmartPC\AndroidStudioProjects\Carhelper\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\SmartPC\AndroidStudioProjects\Carhelper\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2fa8fa4bc29b2cb09dcbd26f9bffe2c186d2075e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SmartPC\AndroidStudioProjects\Carhelper\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9077217fdf2bd0c9f012bdcdd73aa1189277bc6a">
+        <dex dex="C:\Users\SmartPC\AndroidStudioProjects\Carhelper\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_106301612aadf2ea7030bd6e340bdfa789eef774\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SmartPC\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\SmartPC\AndroidStudioProjects\Carhelper\app\build\intermediates\pre-dexed\debug\gson-2.3.1_4ab0e3a4194ea0cc9da7737f1e40bcd8ec553b2b.jar" />
+    </item>
+
+</items>
